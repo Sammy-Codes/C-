@@ -1,5 +1,7 @@
 # C++
+
 Projects
+
 1- Summarize the project and what problem it was solving. The project that I am writing about is the Fahrenheit to Celsius program. This program takes the temperature from a city and converts it from Fahrenheit to Celsius.
 
 2 - What did you do particularly well? What I did great in this project was the conversion formula that I had to use to get the input from the user and actually getting the right calculation.
